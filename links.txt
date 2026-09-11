@@ -1,5 +1,5 @@
-hy2://dmDrDapPBzoR38Vla8F8Wg%3D%3D@3.122.51.138:12453?security=tls&obfs=salamander&obfs-password=5-6kgOWg8G5B&sni=l.wtzaxuamm.xyz#{"c":"DE","l":"1","r":"0"}
-hy2://WRMN4rZcuREVCka34xksDw%3D%3D@3.148.145.100:12787?security=tls&obfs=salamander&obfs-password=dhS1Nr6NHgW3&sni=n.wtzaxuamm.xyz#{"c":"US","l":"1","r":"0"}
-hy2://Jqvz8f6aG3bpgLOFllZBdw%3D%3D@44.211.150.207:12259?security=tls&obfs=salamander&obfs-password=hVfTM5AluyN0&sni=m.wtzaxuamm.xyz#{"c":"US","l":"2","r":"0"}
-hy2://5ea6576ZMX1QqstakPn%2BWA%3D%3D@18.223.107.23:12705?security=tls&obfs=salamander&obfs-password=e1YSdHdAMsl7&sni=l.wtzaxuamm.xyz#{"c":"US","l":"1","r":"0"}
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206T2d6QmlyR0hySXdROHRKdVl0S1FIZz09@54.224.120.235:12121#{"c":"US","l":"0","r":"0"}
+hy2://yYq6u5aQE5AYQC1dYyc0xQ%3D%3D@3.96.196.183:12328?security=tls&obfs=salamander&obfs-password=ucy58fMqfsp9&sni=l.wtzaxuamm.xyz#{"c":"CA","l":"1","r":"0"}
+hy2://TNWEEidbQSkjRJNR4RC1JQ%3D%3D@15.223.195.174:12862?security=tls&obfs=salamander&obfs-password=dpCE9FIBE6ih&sni=l.wtzaxuamm.xyz#{"c":"CA","l":"2","r":"0"}
+hy2://tJeqOTWhVa9uVpn8EyZ%2Fxw%3D%3D@3.96.185.134:12500?security=tls&obfs=salamander&obfs-password=sfXAI7xaaB5n&sni=m.wtzaxuamm.xyz#{"c":"CA","l":"0","r":"0"}
+hy2://2ooVGACX5bhTYXVwTDJdiw%3D%3D@3.122.51.138:12713?security=tls&obfs=salamander&obfs-password=fLJs4fS9e_jB&sni=l.wtzaxuamm.xyz#{"c":"DE","l":"1","r":"0"}
+hy2://3BLMdj%2BliFMU%2FWcpn1yWqw%3D%3D@18.217.191.48:12976?security=tls&obfs=salamander&obfs-password=QrnSMQ-9yXAs&sni=l.wtzaxuamm.xyz#{"c":"US","l":"0","r":"0"}
