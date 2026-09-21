@@ -1,2 +1,2 @@
-hy2://w8I8KQTYzwvuYHrPbUX4kg%3D%3D@62.210.239.98:12965?security=tls&obfs=salamander&obfs-password=Ey3hfj2hWZFD&sni=m.wtzaxuamm.xyz#{"c":"FR","l":"2","r":"0"}
-hy2://jmWx6RkuXxPB4rpzglsbOg%3D%3D@51.15.143.8:12807?security=tls&obfs=salamander&obfs-password=7IOFNV1T0_a7&sni=n.wtzaxuamm.xyz#{"c":"FR","l":"0","r":"0"}
+hy2://iQmVniM42voYFV%2F5MhUXoA%3D%3D@62.210.239.98:12280?security=tls&obfs=salamander&obfs-password=VXtGoXq89T6c&sni=m.wtzaxuamm.xyz#{"c":"FR","l":"1","r":"0"}
+hy2://bE%2BbbRYX05AFCaTplQqPOQ%3D%3D@51.158.103.109:12116?security=tls&obfs=salamander&obfs-password=rZBXRramNTvt&sni=l.wtzaxuamm.xyz#{"c":"FR","l":"1","r":"0"}
