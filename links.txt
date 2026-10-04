@@ -1,1 +1,1 @@
-hy2://Z19XMpmUzNKN%2BzyUi5oQsg%3D%3D@8.8.79.22:80?security=tls&obfs=salamander&obfs-password=pU6e2zSI8ud0&sni=google.com#{"c":"SG","m":"不再支持的版本,请升级","l":"0","r":"0"}
+hy2://Z19XMpmUzNKN%2BzyUi5oQsg%3D%3D@8.8.43.22:80?security=tls&obfs=salamander&obfs-password=pU6e2zSI8ud0&sni=google.com#{"c":"SG","m":"不再支持的版本,请升级","l":"0","r":"0"}
